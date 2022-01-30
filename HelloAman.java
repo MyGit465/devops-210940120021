@@ -1,4 +1,4 @@
-class HelloWorld
+class HelloAman
 {
  public static void main(String[] args)
   {
